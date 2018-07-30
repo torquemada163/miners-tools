@@ -1,0 +1,1331 @@
+2017-11-09 18:56:21,707 - cryptowatchdog - INFO - Watchdog started
+2017-11-09 18:56:21,708 - cryptowatchdog - INFO - Having internet - True
+2017-11-09 18:56:21,768 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-09 19:15:41,348 - cryptowatchdog - INFO - Watchdog started
+2017-11-09 19:15:41,348 - cryptowatchdog - INFO - Having internet - True
+2017-11-09 19:15:41,395 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-12 23:20:38,460 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-12 23:20:38,461 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-12 23:22:26,755 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-12 23:22:26,755 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-12 23:24:14,964 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-12 23:24:14,964 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-12 23:26:04,341 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-12 23:26:04,342 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-12 23:27:52,417 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-12 23:27:52,418 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-12 23:29:40,386 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-12 23:29:40,387 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-12 23:31:28,210 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-12 23:31:28,210 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-13 00:43:33,079 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-13 00:43:33,079 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-13 00:45:21,993 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-11-13 00:45:21,993 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-11-13 01:07:14,381 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-13 01:07:14,381 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-13 01:09:02,401 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-11-13 01:09:02,401 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-11-13 01:16:05,984 - cryptowatchdog - INFO - Watchdog started
+2017-11-13 01:16:05,991 - cryptowatchdog - INFO - Having internet - True
+2017-11-13 01:16:06,067 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-13 09:50:37,452 - cryptowatchdog - INFO - Watchdog started
+2017-11-13 09:50:37,454 - cryptowatchdog - INFO - Having internet - True
+2017-11-13 09:50:37,509 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-13 10:15:23,312 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-13 10:15:23,313 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-16 10:53:52,373 - cryptowatchdog - INFO - Watchdog started
+2017-11-16 10:53:52,376 - cryptowatchdog - INFO - Having internet - True
+2017-11-16 10:53:52,436 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-18 11:44:37,671 - cryptowatchdog - INFO - Watchdog started
+2017-11-18 11:44:37,673 - cryptowatchdog - INFO - Having internet - True
+2017-11-18 11:44:37,725 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-20 21:19:56,999 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-11-20 21:19:57,000 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-11-20 21:21:45,569 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-20 21:21:45,570 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-20 21:23:33,430 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-11-20 21:23:33,430 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-11-20 21:30:22,894 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-20 21:30:22,894 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-20 21:34:03,091 - cryptowatchdog - INFO - Watchdog started
+2017-11-20 21:34:03,093 - cryptowatchdog - INFO - Having internet - True
+2017-11-20 21:34:03,147 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-23 14:07:42,733 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-23 14:07:42,734 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-23 14:11:41,165 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-11-23 14:11:41,165 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-11-23 14:15:13,151 - cryptowatchdog - INFO - Watchdog started
+2017-11-23 14:15:13,153 - cryptowatchdog - INFO - Having internet - True
+2017-11-23 14:15:13,214 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-29 10:22:02,834 - cryptowatchdog - INFO - Watchdog started
+2017-11-29 10:22:02,836 - cryptowatchdog - INFO - Having internet - True
+2017-11-29 10:22:02,883 - cryptowatchdog - INFO - GPU's count - 5
+2017-11-30 09:01:55,758 - cryptowatchdog - INFO - Watchdog started
+2017-11-30 09:01:55,760 - cryptowatchdog - INFO - Having internet - True
+2017-11-30 09:01:55,815 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-03 17:21:49,235 - cryptowatchdog - INFO - Watchdog started
+2017-12-03 17:21:49,237 - cryptowatchdog - INFO - Having internet - True
+2017-12-03 17:21:49,298 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-05 08:22:36,760 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 08:22:36,761 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 11:48:35,414 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 11:48:35,415 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 11:50:23,984 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 11:50:23,984 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 11:52:11,962 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 11:52:11,963 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 11:54:00,096 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 11:54:00,096 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 11:55:48,070 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 11:55:48,070 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 11:57:35,825 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 11:57:35,825 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 11:59:23,569 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 11:59:23,569 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 12:01:11,449 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 12:01:11,449 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 12:02:59,438 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-05 12:02:59,438 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-05 12:04:47,247 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-05 12:04:47,247 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-05 14:15:28,883 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 14:15:28,884 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 14:19:53,262 - cryptowatchdog - INFO - Watchdog started
+2017-12-05 14:19:53,264 - cryptowatchdog - INFO - Having internet - True
+2017-12-05 14:19:53,336 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-05 15:07:56,809 - cryptowatchdog - INFO - Watchdog started
+2017-12-05 15:07:56,811 - cryptowatchdog - INFO - Having internet - True
+2017-12-05 15:07:56,846 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-05 15:09:17,147 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 15:09:17,148 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 15:15:02,652 - cryptowatchdog - INFO - Watchdog started
+2017-12-05 15:15:02,652 - cryptowatchdog - INFO - Having internet - True
+2017-12-05 15:15:02,702 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-05 16:28:20,167 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 16:28:20,168 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 16:30:08,723 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 16:30:08,723 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 16:31:56,780 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 16:31:56,780 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 16:33:44,682 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-05 16:33:44,682 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-05 16:35:32,735 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 16:35:32,735 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 16:37:20,883 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-05 16:37:20,884 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-05 16:41:38,528 - cryptowatchdog - INFO - Watchdog started
+2017-12-05 16:41:38,528 - cryptowatchdog - INFO - Having internet - True
+2017-12-05 16:41:38,574 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-05 20:37:21,381 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-05 20:37:21,382 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-05 20:40:50,497 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-05 20:40:50,498 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-06 16:30:15,086 - cryptowatchdog - INFO - Watchdog started
+2017-12-06 16:30:15,089 - cryptowatchdog - INFO - Having internet - True
+2017-12-06 16:30:15,158 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-06 20:19:15,103 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-06 20:19:15,104 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 00:32:09,848 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 00:32:09,848 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 06:30:32,753 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 06:30:32,753 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 06:32:21,678 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 06:32:21,678 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 06:34:09,952 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 06:34:09,952 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 06:35:58,051 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 06:35:58,051 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 10:35:27,239 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 10:35:27,239 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 14:04:49,850 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 14:04:49,850 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 14:06:38,903 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 14:06:38,904 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 14:33:33,736 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 14:33:33,737 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 16:17:28,748 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 16:17:28,749 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 16:29:19,879 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 16:29:19,879 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 16:32:48,768 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 16:32:48,768 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 16:37:57,631 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 16:37:57,631 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 16:39:45,870 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 16:39:45,871 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 17:10:01,331 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 17:10:01,331 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 18:12:05,325 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 18:12:05,325 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 18:13:54,763 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 18:13:54,763 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 18:15:42,922 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 18:15:42,922 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 18:17:31,258 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 18:17:31,259 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 19:04:31,258 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 19:04:31,258 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 19:18:02,791 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 19:18:02,791 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 19:19:51,158 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 19:19:51,159 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 19:21:40,302 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 19:21:40,303 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 19:23:28,641 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 19:23:28,642 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 19:25:16,665 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 19:25:16,665 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 19:27:05,486 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 19:27:05,486 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 19:28:54,180 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 19:28:54,180 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-07 22:18:04,475 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-07 22:18:04,475 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-08 03:09:29,211 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-08 03:09:29,211 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-08 09:56:25,437 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-08 09:56:25,437 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-08 09:58:13,991 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-08 09:58:13,992 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-08 10:00:02,190 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-08 10:00:02,190 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-08 10:01:50,277 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-08 10:01:50,277 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-08 10:06:31,188 - cryptowatchdog - INFO - Watchdog started
+2017-12-08 10:06:31,194 - cryptowatchdog - INFO - Having internet - True
+2017-12-08 10:06:31,247 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-10 15:46:17,590 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-10 15:46:17,590 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-10 15:48:06,569 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-10 15:48:06,569 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-10 15:56:36,501 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-10 15:56:36,502 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-10 15:59:51,950 - cryptowatchdog - INFO - Watchdog started
+2017-12-10 15:59:51,952 - cryptowatchdog - INFO - Having internet - True
+2017-12-10 15:59:51,989 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-10 16:16:16,253 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-10 16:16:16,253 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-10 17:48:28,257 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-10 17:48:28,257 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-10 17:55:18,278 - cryptowatchdog - ERROR - Detected decrease hashrate: 10101
+2017-12-10 17:55:18,278 - cryptowatchdog - ERROR - Fault GPU's:  1, 3,
+2017-12-11 10:13:03,372 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-11 10:13:03,372 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-11 10:14:51,636 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-11 10:14:51,636 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-11 10:16:39,532 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-11 10:16:39,533 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-11 10:18:27,303 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-11 10:18:27,303 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-11 10:20:15,167 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-11 10:20:15,168 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-11 10:22:02,933 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-11 10:22:02,933 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-11 10:23:50,785 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-11 10:23:50,785 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-11 10:25:38,767 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-11 10:25:38,767 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-11 11:12:38,487 - cryptowatchdog - ERROR - Detected decrease hashrate: 10000
+2017-12-11 11:12:38,487 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3, 4,
+2017-12-11 11:17:47,876 - cryptowatchdog - ERROR - Detected decrease hashrate: 00010
+2017-12-11 11:17:47,876 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 4,
+2017-12-11 11:47:38,242 - cryptowatchdog - INFO - Watchdog started
+2017-12-11 11:47:38,244 - cryptowatchdog - INFO - Having internet - True
+2017-12-11 11:47:38,290 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-13 10:17:18,915 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-13 10:17:18,915 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-13 10:21:36,304 - cryptowatchdog - INFO - Watchdog started
+2017-12-13 10:21:36,311 - cryptowatchdog - INFO - Having internet - True
+2017-12-13 10:21:36,388 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-16 09:58:20,309 - cryptowatchdog - INFO - Watchdog started
+2017-12-16 09:58:20,313 - cryptowatchdog - INFO - Having internet - True
+2017-12-16 09:58:20,374 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-17 11:57:33,350 - cryptowatchdog - INFO - Watchdog started
+2017-12-17 11:57:33,353 - cryptowatchdog - INFO - Having internet - True
+2017-12-17 11:57:33,392 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-18 09:36:13,813 - cryptowatchdog - INFO - Watchdog started
+2017-12-18 09:36:13,815 - cryptowatchdog - INFO - Having internet - True
+2017-12-18 09:36:13,888 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-19 08:48:56,300 - cryptowatchdog - INFO - Watchdog started
+2017-12-19 08:48:56,302 - cryptowatchdog - INFO - Having internet - True
+2017-12-19 08:48:56,376 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-19 09:16:28,003 - cryptowatchdog - INFO - Watchdog started
+2017-12-19 09:16:28,007 - cryptowatchdog - INFO - Having internet - True
+2017-12-19 09:16:28,062 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-20 08:57:46,266 - cryptowatchdog - INFO - Watchdog started
+2017-12-20 08:57:46,273 - cryptowatchdog - INFO - Having internet - True
+2017-12-20 08:57:46,328 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-23 11:51:31,975 - cryptowatchdog - INFO - Watchdog started
+2017-12-23 11:51:31,977 - cryptowatchdog - INFO - Having internet - True
+2017-12-23 11:51:32,018 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-24 11:43:03,142 - cryptowatchdog - INFO - Watchdog started
+2017-12-24 11:43:03,145 - cryptowatchdog - INFO - Having internet - True
+2017-12-24 11:43:03,216 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-24 21:05:57,059 - cryptowatchdog - INFO - Watchdog started
+2017-12-24 21:05:57,069 - cryptowatchdog - INFO - Having internet - True
+2017-12-24 21:05:57,115 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-26 09:32:24,394 - cryptowatchdog - INFO - Watchdog started
+2017-12-26 09:32:24,399 - cryptowatchdog - INFO - Having internet - True
+2017-12-26 09:32:24,439 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-27 04:32:01,473 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:32:01,473 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 04:33:51,890 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:33:51,891 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 04:35:39,957 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:35:39,957 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 04:37:28,768 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:37:28,768 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 04:39:16,630 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:39:16,630 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 04:41:04,577 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:41:04,578 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 04:42:52,408 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:42:52,408 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 04:44:40,333 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:44:40,334 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 04:46:28,233 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2017-12-27 04:46:28,234 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2017-12-27 10:36:18,176 - cryptowatchdog - INFO - Watchdog started
+2017-12-27 10:36:18,183 - cryptowatchdog - INFO - Having internet - True
+2017-12-27 10:36:18,242 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-28 10:41:18,901 - cryptowatchdog - INFO - Watchdog started
+2017-12-28 10:41:18,904 - cryptowatchdog - INFO - Having internet - True
+2017-12-28 10:41:18,953 - cryptowatchdog - INFO - GPU's count - 5
+2017-12-31 11:24:12,208 - cryptowatchdog - INFO - Watchdog started
+2017-12-31 11:24:12,214 - cryptowatchdog - INFO - Having internet - True
+2017-12-31 11:24:12,257 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-04 22:58:38,939 - cryptowatchdog - INFO - Watchdog started
+2018-01-04 22:58:38,939 - cryptowatchdog - INFO - Having internet - True
+2018-01-04 22:58:38,978 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-04 23:01:59,959 - cryptowatchdog - INFO - Watchdog started
+2018-01-04 23:01:59,961 - cryptowatchdog - INFO - Having internet - True
+2018-01-04 23:02:00,034 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-05 16:53:50,273 - cryptowatchdog - INFO - Watchdog started
+2018-01-05 16:53:50,276 - cryptowatchdog - INFO - Having internet - True
+2018-01-05 16:53:50,328 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-06 16:17:38,082 - cryptowatchdog - INFO - Watchdog started
+2018-01-06 16:17:38,085 - cryptowatchdog - INFO - Having internet - True
+2018-01-06 16:17:38,135 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-15 10:00:26,791 - cryptowatchdog - INFO - Watchdog started
+2018-01-15 10:00:26,796 - cryptowatchdog - INFO - Having internet - True
+2018-01-15 10:00:26,849 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-16 13:38:40,287 - cryptowatchdog - INFO - Watchdog started
+2018-01-16 13:38:40,290 - cryptowatchdog - INFO - Having internet - True
+2018-01-16 13:38:40,362 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-17 21:12:38,807 - cryptowatchdog - INFO - Watchdog started
+2018-01-17 21:12:38,809 - cryptowatchdog - INFO - Having internet - True
+2018-01-17 21:12:38,864 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-19 09:07:38,857 - cryptowatchdog - INFO - Watchdog started
+2018-01-19 09:07:38,859 - cryptowatchdog - INFO - Having internet - True
+2018-01-19 09:07:38,908 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-20 10:31:36,701 - cryptowatchdog - INFO - Watchdog started
+2018-01-20 10:31:36,705 - cryptowatchdog - INFO - Having internet - True
+2018-01-20 10:31:36,768 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-21 11:01:11,423 - cryptowatchdog - INFO - Watchdog started
+2018-01-21 11:01:11,425 - cryptowatchdog - INFO - Having internet - True
+2018-01-21 11:01:11,468 - cryptowatchdog - INFO - GPU's count - 5
+2018-01-21 19:45:48,863 - cryptowatchdog - INFO - Watchdog started
+2018-01-21 19:45:48,867 - cryptowatchdog - INFO - Having internet - True
+2018-01-21 19:45:48,940 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-01 15:57:05,862 - cryptowatchdog - INFO - Watchdog started
+2018-02-01 15:57:05,864 - cryptowatchdog - INFO - Having internet - True
+2018-02-01 15:57:05,920 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-02 16:53:54,147 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2018-02-02 16:53:54,147 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2018-02-02 16:55:43,000 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2018-02-02 16:55:43,000 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2018-02-02 16:59:31,090 - cryptowatchdog - INFO - Watchdog started
+2018-02-02 16:59:31,095 - cryptowatchdog - INFO - Having internet - True
+2018-02-02 16:59:31,145 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-03 13:01:24,034 - cryptowatchdog - INFO - Watchdog started
+2018-02-03 13:01:24,035 - cryptowatchdog - INFO - Having internet - True
+2018-02-03 13:01:24,079 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-08 14:26:24,258 - cryptowatchdog - INFO - Watchdog started
+2018-02-08 14:26:24,263 - cryptowatchdog - INFO - Having internet - True
+2018-02-08 14:26:24,306 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-08 14:35:27,378 - cryptowatchdog - INFO - Watchdog started
+2018-02-08 14:35:27,385 - cryptowatchdog - INFO - Having internet - True
+2018-02-08 14:35:27,450 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-13 09:40:36,130 - cryptowatchdog - INFO - Watchdog started
+2018-02-13 09:40:36,137 - cryptowatchdog - INFO - Having internet - True
+2018-02-13 09:40:36,188 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-16 22:48:42,962 - cryptowatchdog - INFO - Watchdog started
+2018-02-16 22:48:42,966 - cryptowatchdog - INFO - Having internet - True
+2018-02-16 22:48:43,008 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-16 23:20:29,094 - cryptowatchdog - INFO - Watchdog started
+2018-02-16 23:20:29,100 - cryptowatchdog - INFO - Having internet - True
+2018-02-16 23:20:29,167 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-20 09:21:03,008 - cryptowatchdog - INFO - Watchdog started
+2018-02-20 09:21:03,014 - cryptowatchdog - INFO - Having internet - True
+2018-02-20 09:21:03,067 - cryptowatchdog - INFO - GPU's count - 5
+2018-02-25 11:15:22,485 - cryptowatchdog - INFO - Watchdog started
+2018-02-25 11:15:22,492 - cryptowatchdog - INFO - Having internet - True
+2018-02-25 11:15:22,540 - cryptowatchdog - INFO - GPU's count - 5
+2018-03-01 10:05:59,790 - cryptowatchdog - INFO - Watchdog started
+2018-03-01 10:05:59,797 - cryptowatchdog - INFO - Having internet - True
+2018-03-01 10:05:59,854 - cryptowatchdog - INFO - GPU's count - 5
+2018-03-10 19:00:18,416 - cryptowatchdog - INFO - Watchdog started
+2018-03-10 19:00:18,418 - cryptowatchdog - INFO - Having internet - True
+2018-03-10 19:00:18,452 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-10 19:01:38,690 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-10 19:01:38,692 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-10 19:05:51,013 - cryptowatchdog - INFO - Watchdog started
+2018-03-10 19:05:51,020 - cryptowatchdog - INFO - Having internet - True
+2018-03-10 19:05:51,070 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-10 19:10:02,457 - cryptowatchdog - INFO - Watchdog started
+2018-03-10 19:10:02,458 - cryptowatchdog - INFO - Having internet - True
+2018-03-10 19:10:02,505 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-11 17:41:47,445 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-11 17:41:47,446 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-11 17:43:36,157 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-11 17:43:36,158 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-11 17:45:24,820 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-11 17:45:24,821 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-11 17:47:12,719 - cryptowatchdog - ERROR - Detected decrease hashrate: 1000
+2018-03-11 17:47:12,720 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3,
+2018-03-11 17:51:00,628 - cryptowatchdog - INFO - Watchdog started
+2018-03-11 17:51:00,630 - cryptowatchdog - INFO - Having internet - True
+2018-03-11 17:51:00,676 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-16 06:02:05,310 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:02:05,311 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:03:54,393 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:03:54,393 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:05:42,705 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:05:42,706 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:07:30,801 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:07:30,801 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:09:18,763 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:09:18,763 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:11:06,703 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:11:06,703 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:12:54,400 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:12:54,400 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:14:42,834 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:14:42,834 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:16:30,594 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:16:30,594 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:18:18,396 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:18:18,396 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:20:06,422 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:20:06,422 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:21:54,138 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:21:54,138 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:23:42,084 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:23:42,085 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:25:30,478 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 06:25:30,478 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 06:27:47,945 - cryptowatchdog - ERROR - Detected decrease hashrate: 1000
+2018-03-16 06:27:47,945 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3,
+2018-03-16 06:31:34,078 - cryptowatchdog - INFO - Watchdog started
+2018-03-16 06:31:34,080 - cryptowatchdog - INFO - Having internet - True
+2018-03-16 06:31:34,114 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-16 17:13:01,182 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 17:13:01,182 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 17:14:50,084 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 17:14:50,084 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 17:16:37,968 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 17:16:37,968 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 17:18:26,035 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 17:18:26,036 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 17:20:14,304 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-16 17:20:14,305 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-16 17:24:00,973 - cryptowatchdog - INFO - Watchdog started
+2018-03-16 17:24:00,975 - cryptowatchdog - INFO - Having internet - True
+2018-03-16 17:24:01,012 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-18 16:35:42,809 - cryptowatchdog - INFO - Watchdog started
+2018-03-18 16:35:42,811 - cryptowatchdog - INFO - Having internet - True
+2018-03-18 16:35:42,839 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-18 16:49:33,876 - cryptowatchdog - INFO - Watchdog started
+2018-03-18 16:49:33,883 - cryptowatchdog - INFO - Having internet - True
+2018-03-18 16:49:33,929 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-18 16:56:23,281 - cryptowatchdog - INFO - Watchdog started
+2018-03-18 16:56:23,283 - cryptowatchdog - INFO - Having internet - True
+2018-03-18 16:56:23,315 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-18 17:11:27,089 - cryptowatchdog - INFO - Watchdog started
+2018-03-18 17:11:27,092 - cryptowatchdog - INFO - Having internet - True
+2018-03-18 17:11:27,120 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-18 17:19:44,577 - cryptowatchdog - INFO - Watchdog started
+2018-03-18 17:19:44,581 - cryptowatchdog - INFO - Having internet - True
+2018-03-18 17:19:44,621 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-18 17:27:46,199 - cryptowatchdog - INFO - Watchdog started
+2018-03-18 17:27:46,200 - cryptowatchdog - INFO - Having internet - True
+2018-03-18 17:27:46,230 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-18 17:35:07,896 - cryptowatchdog - INFO - Watchdog started
+2018-03-18 17:35:07,896 - cryptowatchdog - INFO - Having internet - True
+2018-03-18 17:35:07,932 - cryptowatchdog - INFO - GPU's count - 4
+2018-03-22 11:55:11,588 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 11:55:11,589 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 11:55:31,615 - cryptowatchdog - ERROR - Lost internet connection
+2018-03-22 11:57:11,871 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 11:57:11,871 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 11:59:12,138 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 11:59:12,138 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:01:12,437 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:01:12,437 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:03:12,727 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:03:12,727 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:05:12,991 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:05:12,991 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:07:13,293 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:07:13,293 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:09:13,572 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:09:13,572 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:10:55,844 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:10:55,845 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:12:56,134 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:12:56,134 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:14:56,406 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:14:56,407 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:16:56,685 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:16:56,685 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:18:56,974 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:18:56,975 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:20:57,275 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:20:57,275 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:22:57,566 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:22:57,567 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:23:06,198 - cryptowatchdog - WARNING - Internet connection established
+2018-03-22 12:24:46,454 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-03-22 12:24:46,454 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-03-22 12:29:14,547 - cryptowatchdog - INFO - Watchdog started
+2018-03-22 12:29:14,550 - cryptowatchdog - INFO - Having internet - True
+2018-03-22 12:29:14,589 - cryptowatchdog - INFO - GPU's count - 4
+2018-04-05 10:42:17,490 - cryptowatchdog - INFO - Watchdog started
+2018-04-05 10:42:17,492 - cryptowatchdog - INFO - Having internet - True
+2018-04-05 10:42:17,532 - cryptowatchdog - INFO - GPU's count - 4
+2018-04-05 10:48:38,723 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 10:48:38,724 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 10:50:27,043 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 10:50:27,044 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 10:52:15,493 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 10:52:15,494 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 10:54:03,947 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 10:54:03,948 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 10:55:51,737 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 10:55:51,738 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 10:57:39,578 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 10:57:39,578 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 10:59:27,292 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 10:59:27,293 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 11:01:15,694 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 11:01:15,694 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 11:03:03,592 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-05 11:03:03,592 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-05 11:06:44,868 - cryptowatchdog - INFO - Watchdog started
+2018-04-05 11:06:44,870 - cryptowatchdog - INFO - Having internet - True
+2018-04-05 11:06:44,903 - cryptowatchdog - INFO - GPU's count - 4
+2018-04-09 21:19:27,315 - cryptowatchdog - INFO - Watchdog started
+2018-04-09 21:19:27,321 - cryptowatchdog - INFO - Having internet - True
+2018-04-09 21:19:27,360 - cryptowatchdog - INFO - GPU's count - 4
+2018-04-10 09:18:18,753 - cryptowatchdog - INFO - Watchdog started
+2018-04-10 09:18:18,755 - cryptowatchdog - INFO - Having internet - True
+2018-04-10 09:18:18,795 - cryptowatchdog - INFO - GPU's count - 4
+2018-04-10 09:35:18,416 - cryptowatchdog - INFO - Watchdog started
+2018-04-10 09:35:18,418 - cryptowatchdog - INFO - Having internet - True
+2018-04-10 09:35:18,448 - cryptowatchdog - INFO - GPU's count - 4
+2018-04-13 09:57:55,393 - cryptowatchdog - INFO - Watchdog started
+2018-04-13 09:57:55,395 - cryptowatchdog - INFO - Having internet - True
+2018-04-13 09:57:55,434 - cryptowatchdog - INFO - GPU's count - 4
+2018-04-18 14:06:54,358 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-18 14:06:54,358 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-18 14:08:42,929 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-18 14:08:42,929 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-18 14:10:31,014 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-18 14:10:31,014 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-18 14:12:19,689 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-04-18 14:12:19,689 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-04-20 23:30:52,856 - cryptowatchdog - INFO - Watchdog started
+2018-04-20 23:30:52,858 - cryptowatchdog - INFO - Having internet - True
+2018-04-20 23:30:52,898 - cryptowatchdog - INFO - GPU's count - 4
+2018-04-26 21:22:06,003 - cryptowatchdog - INFO - Watchdog started
+2018-04-26 21:22:06,005 - cryptowatchdog - INFO - Having internet - True
+2018-04-26 21:22:06,045 - cryptowatchdog - INFO - GPU's count - 4
+2018-05-11 21:11:29,433 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-05-11 21:11:29,434 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-05-11 21:13:18,539 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-05-11 21:13:18,539 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-05-11 21:15:06,821 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-05-11 21:15:06,822 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-05-11 21:19:45,161 - cryptowatchdog - INFO - Watchdog started
+2018-05-11 21:19:45,163 - cryptowatchdog - INFO - Having internet - True
+2018-05-11 21:19:45,203 - cryptowatchdog - INFO - GPU's count - 4
+2018-05-19 12:10:11,244 - cryptowatchdog - INFO - Watchdog started
+2018-05-19 12:10:11,246 - cryptowatchdog - INFO - Having internet - True
+2018-05-19 12:10:11,275 - cryptowatchdog - INFO - GPU's count - 4
+2018-05-23 17:02:18,316 - cryptowatchdog - INFO - Watchdog started
+2018-05-23 17:02:18,322 - cryptowatchdog - INFO - Having internet - True
+2018-05-23 17:02:18,361 - cryptowatchdog - INFO - GPU's count - 4
+2018-06-02 12:59:06,051 - cryptowatchdog - INFO - Watchdog started
+2018-06-02 12:59:06,057 - cryptowatchdog - INFO - Having internet - True
+2018-06-02 12:59:06,090 - cryptowatchdog - INFO - GPU's count - 4
+2018-06-02 15:01:51,542 - cryptowatchdog - INFO - Watchdog started
+2018-06-02 15:01:51,549 - cryptowatchdog - INFO - Having internet - True
+2018-06-02 15:01:51,580 - cryptowatchdog - INFO - GPU's count - 3
+2018-06-02 15:13:34,749 - cryptowatchdog - INFO - Watchdog started
+2018-06-02 15:13:34,754 - cryptowatchdog - INFO - Having internet - True
+2018-06-02 15:13:34,781 - cryptowatchdog - INFO - GPU's count - 4
+2018-06-03 16:33:40,842 - cryptowatchdog - INFO - Watchdog started
+2018-06-03 16:33:40,846 - cryptowatchdog - INFO - Having internet - True
+2018-06-03 16:33:40,885 - cryptowatchdog - INFO - GPU's count - 4
+2018-06-03 17:52:31,004 - cryptowatchdog - INFO - Watchdog started
+2018-06-03 17:52:31,007 - cryptowatchdog - INFO - Having internet - True
+2018-06-03 17:52:31,046 - cryptowatchdog - INFO - GPU's count - 4
+2018-06-20 11:10:53,775 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-20 11:10:53,775 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-20 11:12:43,144 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-20 11:12:43,144 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-20 11:16:18,749 - cryptowatchdog - INFO - Watchdog started
+2018-06-20 11:16:18,751 - cryptowatchdog - INFO - Having internet - True
+2018-06-20 11:16:18,791 - cryptowatchdog - INFO - GPU's count - 4
+2018-06-23 15:44:52,063 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-23 15:44:52,063 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-23 15:46:42,251 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-23 15:46:42,251 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-23 15:50:45,710 - cryptowatchdog - INFO - Watchdog started
+2018-06-23 15:50:45,713 - cryptowatchdog - INFO - Having internet - True
+2018-06-23 15:50:45,753 - cryptowatchdog - INFO - GPU's count - 4
+2018-06-27 19:16:38,016 - cryptowatchdog - INFO - Watchdog started
+2018-06-27 19:16:38,018 - cryptowatchdog - INFO - Having internet - True
+2018-06-27 19:16:38,062 - cryptowatchdog - INFO - GPU's count - 4
+2018-06-30 13:23:24,338 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:23:24,338 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:23:41,149 - cryptowatchdog - ERROR - Lost internet connection
+2018-06-30 13:25:21,395 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:25:21,395 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:27:21,695 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:27:21,695 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:29:21,993 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:29:21,994 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:31:16,611 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:31:16,611 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:33:16,872 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:33:16,872 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:35:17,145 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:35:17,145 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:37:11,765 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:37:11,765 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:39:12,063 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:39:12,063 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:41:12,349 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:41:12,350 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:43:06,945 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:43:06,945 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:45:07,231 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:45:07,232 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:47:07,532 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:47:07,532 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:49:02,096 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:49:02,097 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:51:02,382 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:51:02,382 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:53:02,658 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:53:02,659 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:54:57,294 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:54:57,294 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:56:57,586 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:56:57,586 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 13:58:57,866 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 13:58:57,866 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:00:52,481 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:00:52,482 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:02:52,771 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:02:52,771 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:04:53,054 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:04:53,054 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:06:47,647 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:06:47,647 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:08:47,935 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:08:47,935 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:10:48,218 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:10:48,218 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:12:42,808 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:12:42,809 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:14:43,093 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:14:43,094 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:16:43,378 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:16:43,378 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:18:37,990 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:18:37,991 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:20:38,284 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:20:38,284 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:22:38,574 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:22:38,574 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:24:33,179 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:24:33,180 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:26:33,447 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:26:33,447 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:28:33,727 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:28:33,727 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:30:28,347 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:30:28,347 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:32:28,639 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:32:28,639 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:34:28,942 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:34:28,942 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:36:23,542 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:36:23,542 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:38:23,826 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:38:23,826 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:40:24,098 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:40:24,098 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:42:18,693 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:42:18,694 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:44:18,987 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:44:18,988 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:46:19,258 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:46:19,259 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:48:13,874 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:48:13,874 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:50:14,147 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:50:14,147 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:52:14,426 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:52:14,426 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:54:09,054 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:54:09,054 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:56:09,356 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:56:09,356 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:56:18,104 - cryptowatchdog - WARNING - Internet connection established
+2018-06-30 14:57:58,362 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:57:58,362 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 14:59:47,364 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 14:59:47,365 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 15:01:40,467 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-06-30 15:01:40,468 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-06-30 15:06:19,255 - cryptowatchdog - INFO - Watchdog started
+2018-06-30 15:06:19,257 - cryptowatchdog - INFO - Having internet - True
+2018-06-30 15:06:19,301 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-01 16:16:05,800 - cryptowatchdog - INFO - Watchdog started
+2018-07-01 16:16:05,804 - cryptowatchdog - INFO - Having internet - True
+2018-07-01 16:16:05,843 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-04 12:01:27,384 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-04 12:01:27,384 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-04 12:03:16,520 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-04 12:03:16,520 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 00:25:41,239 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 00:25:41,240 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 00:42:24,326 - cryptowatchdog - ERROR - Error from send message to Telegram Bot
+2018-07-05 00:55:51,728 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 00:55:51,728 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 00:57:48,643 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 00:57:48,644 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 00:57:50,647 - cryptowatchdog - ERROR - Lost internet connection
+2018-07-05 00:59:30,922 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 00:59:30,923 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 00:59:40,466 - cryptowatchdog - WARNING - Internet connection established
+2018-07-05 01:01:20,739 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:01:20,739 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:01:22,743 - cryptowatchdog - ERROR - Lost internet connection
+2018-07-05 01:03:03,008 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:03:03,009 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:04:45,295 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:04:45,295 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:05:00,065 - cryptowatchdog - WARNING - Internet connection established
+2018-07-05 01:06:40,314 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:06:40,314 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:08:29,065 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:08:29,065 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:10:17,669 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:10:17,669 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:12:13,763 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:12:13,763 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:14:08,602 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:14:08,602 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:15:57,920 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:15:57,921 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:18:36,339 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:18:36,339 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:20:31,074 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:20:31,074 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:20:50,822 - cryptowatchdog - ERROR - Lost internet connection
+2018-07-05 01:22:31,102 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:22:31,103 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:24:31,373 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:24:31,374 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:24:56,776 - cryptowatchdog - WARNING - Internet connection established
+2018-07-05 01:26:37,055 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:26:37,055 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:26:39,059 - cryptowatchdog - ERROR - Lost internet connection
+2018-07-05 01:28:19,329 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:28:19,329 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:30:01,584 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:30:01,585 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:31:59,233 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:31:59,233 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-05 01:32:10,967 - cryptowatchdog - WARNING - Internet connection established
+2018-07-05 01:33:51,243 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-05 01:33:51,243 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-07 19:54:27,992 - cryptowatchdog - INFO - Watchdog started
+2018-07-07 19:54:27,994 - cryptowatchdog - INFO - Having internet - True
+2018-07-07 19:54:28,034 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-07 19:58:28,332 - cryptowatchdog - INFO - Watchdog started
+2018-07-07 19:58:28,333 - cryptowatchdog - INFO - Having internet - True
+2018-07-07 19:58:28,361 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-07 20:06:47,948 - cryptowatchdog - INFO - Watchdog started
+2018-07-07 20:06:47,954 - cryptowatchdog - INFO - Having internet - True
+2018-07-07 20:06:47,999 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-09 21:41:48,523 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:41:48,524 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:42:05,365 - cryptowatchdog - ERROR - Lost internet connection
+2018-07-09 21:43:45,622 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:43:45,622 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:45:42,654 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:45:42,654 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:47:39,677 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:47:39,677 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:49:36,678 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:49:36,679 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:51:33,688 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:51:33,689 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:53:30,720 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:53:30,720 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:55:25,269 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:55:25,270 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:57:21,711 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:57:21,712 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 21:59:18,750 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 21:59:18,750 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:01:13,288 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:01:13,288 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:03:09,766 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:03:09,766 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:05:06,787 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:05:06,787 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:07:01,245 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:07:01,245 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:08:57,818 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:08:57,818 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:10:54,826 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:10:54,826 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:12:49,219 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:12:49,219 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:14:45,861 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:14:45,862 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:16:42,859 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:16:42,860 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:18:39,875 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:18:39,875 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:20:37,898 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:20:37,898 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:22:38,184 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:22:38,185 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:24:38,480 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:24:38,481 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:26:33,069 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:26:33,070 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 22:28:33,355 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-09 22:28:33,355 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-09 23:50:14,808 - cryptowatchdog - INFO - Watchdog started
+2018-07-09 23:50:14,814 - cryptowatchdog - INFO - Having internet - True
+2018-07-09 23:50:14,849 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-10 08:04:44,207 - cryptowatchdog - INFO - Watchdog started
+2018-07-10 08:04:44,213 - cryptowatchdog - INFO - Having internet - True
+2018-07-10 08:04:44,241 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-10 11:28:53,438 - cryptowatchdog - INFO - Watchdog started
+2018-07-10 11:28:53,443 - cryptowatchdog - INFO - Having internet - True
+2018-07-10 11:28:53,473 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-10 12:10:54,422 - cryptowatchdog - INFO - Watchdog started
+2018-07-10 12:10:54,425 - cryptowatchdog - INFO - Having internet - True
+2018-07-10 12:10:54,469 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-10 12:13:54,979 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-10 12:13:54,980 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-10 12:15:44,158 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-10 12:15:44,159 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-10 12:17:34,483 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-10 12:17:34,483 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-10 12:19:23,473 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-10 12:19:23,473 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-10 12:21:12,590 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-10 12:21:12,591 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-10 12:25:54,480 - cryptowatchdog - INFO - Watchdog started
+2018-07-10 12:25:54,482 - cryptowatchdog - INFO - Having internet - True
+2018-07-10 12:25:54,522 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-12 10:18:42,133 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:18:42,134 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:18:57,773 - cryptowatchdog - ERROR - Lost internet connection
+2018-07-12 10:20:38,054 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:20:38,054 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:22:35,038 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:22:35,038 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:24:32,077 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:24:32,077 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:26:26,519 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:26:26,519 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:28:23,093 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:28:23,093 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:30:20,109 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:30:20,110 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:32:17,151 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:32:17,151 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:34:14,167 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:34:14,168 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:36:08,743 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:36:08,744 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:38:05,236 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:38:05,236 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:40:02,237 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:40:02,237 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:41:56,735 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:41:56,735 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:43:53,279 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:43:53,279 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:45:50,279 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:45:50,279 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:47:44,713 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:47:44,714 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:49:41,337 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:49:41,337 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:51:38,364 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:51:38,364 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-12 10:53:35,358 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-12 10:53:35,359 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 06:55:54,606 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 06:55:54,607 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 06:57:50,963 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 06:57:50,963 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 06:59:51,269 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 06:59:51,269 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:01:51,550 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:01:51,551 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:03:46,246 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:03:46,247 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:05:46,519 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:05:46,520 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:07:46,815 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:07:46,816 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:09:41,440 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:09:41,440 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:11:41,706 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:11:41,706 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:13:41,990 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:13:41,991 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:15:36,682 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:15:36,682 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:17:36,989 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:17:36,990 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:19:37,270 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:19:37,270 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:21:31,884 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:21:31,884 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:23:32,172 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:23:32,173 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:25:32,479 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:25:32,479 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:27:27,102 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:27:27,102 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:29:27,380 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:29:27,381 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:31:27,657 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:31:27,657 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:33:22,312 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:33:22,313 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:35:22,580 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:35:22,580 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:37:22,886 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:37:22,886 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:39:17,546 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:39:17,546 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:41:17,825 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:41:17,825 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:43:18,131 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:43:18,132 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:45:12,733 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:45:12,734 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:47:13,014 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:47:13,015 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:49:13,316 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:49:13,316 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:51:07,987 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:51:07,987 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:53:08,279 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:53:08,280 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:55:08,574 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:55:08,574 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:57:03,213 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:57:03,213 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 07:59:03,515 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 07:59:03,515 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:01:03,802 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:01:03,802 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:02:58,412 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:02:58,412 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:04:58,711 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:04:58,711 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:06:59,008 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:06:59,008 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:08:53,651 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:08:53,651 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:10:53,953 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:10:53,954 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:12:54,250 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:12:54,250 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:14:48,887 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:14:48,887 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:16:49,183 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:16:49,183 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:18:49,472 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:18:49,472 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:20:44,122 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:20:44,122 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:22:44,415 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:22:44,415 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:24:44,712 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:24:44,712 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:26:39,299 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:26:39,299 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:28:39,565 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:28:39,565 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:30:39,871 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:30:39,871 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:32:34,549 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:32:34,550 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:34:34,845 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:34:34,845 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:36:35,141 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:36:35,141 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:38:29,756 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:38:29,756 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:40:30,051 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:40:30,051 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:42:30,351 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:42:30,352 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:44:24,996 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:44:24,997 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:46:25,273 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:46:25,273 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:48:25,573 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:48:25,573 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:50:20,197 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:50:20,197 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:52:20,484 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:52:20,484 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:54:20,770 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:54:20,770 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:56:15,416 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:56:15,417 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 08:58:15,705 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 08:58:15,705 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:00:16,000 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:00:16,001 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:02:10,671 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:02:10,671 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:04:10,968 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:04:10,969 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:06:11,263 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:06:11,263 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:08:05,940 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:08:05,940 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:10:06,227 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:10:06,227 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:12:06,525 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:12:06,525 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:14:01,161 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:14:01,161 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:16:01,474 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:16:01,475 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:17:41,750 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:17:41,750 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:17:56,265 - cryptowatchdog - WARNING - Internet connection established
+2018-07-15 09:19:36,547 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:19:36,547 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:21:28,809 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:21:28,809 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:23:18,149 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-15 09:23:18,149 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-15 09:27:15,704 - cryptowatchdog - INFO - Watchdog started
+2018-07-15 09:27:15,706 - cryptowatchdog - INFO - Having internet - True
+2018-07-15 09:27:15,746 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-16 14:11:56,787 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-16 14:11:56,788 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-16 14:13:55,117 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-16 14:13:55,118 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-16 14:15:43,992 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-16 14:15:43,993 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-16 14:19:08,894 - cryptowatchdog - INFO - Watchdog started
+2018-07-16 14:19:08,900 - cryptowatchdog - INFO - Having internet - True
+2018-07-16 14:19:08,932 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-18 05:39:06,535 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:39:06,535 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:40:58,578 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:40:58,578 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:42:58,718 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:42:58,719 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:44:49,772 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:44:49,772 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:46:42,157 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:46:42,158 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:48:31,501 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:48:31,501 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:50:25,435 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:50:25,435 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:52:18,093 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:52:18,093 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:54:11,223 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:54:11,223 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:56:00,396 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:56:00,397 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:57:51,062 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:57:51,062 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 05:59:40,467 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 05:59:40,467 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 06:01:30,656 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 06:01:30,657 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 06:03:23,471 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 06:03:23,472 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 06:05:27,107 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 06:05:27,107 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 06:09:42,634 - cryptowatchdog - INFO - Watchdog started
+2018-07-18 06:09:42,639 - cryptowatchdog - INFO - Having internet - True
+2018-07-18 06:09:42,677 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-18 14:05:45,828 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:05:45,829 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:06:00,771 - cryptowatchdog - ERROR - Lost internet connection
+2018-07-18 14:07:41,028 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:07:41,029 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:09:36,253 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:09:36,253 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:11:32,081 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:11:32,081 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:13:27,278 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:13:27,279 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:15:22,832 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:15:22,833 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:17:18,330 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:17:18,331 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:19:14,176 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:19:14,176 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:21:09,381 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:21:09,381 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:23:04,409 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:23:04,409 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:25:00,401 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:25:00,401 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:26:56,241 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:26:56,242 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:28:51,463 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:28:51,463 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:30:45,993 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:30:45,993 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:32:41,285 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:32:41,286 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:34:36,518 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:34:36,519 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:36:32,310 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:36:32,310 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:38:27,546 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:38:27,546 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:40:23,377 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:40:23,377 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:42:18,588 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:42:18,588 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:44:14,397 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:44:14,397 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:46:09,113 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:46:09,114 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:48:03,668 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:48:03,668 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:50:03,485 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:50:03,485 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:50:16,436 - cryptowatchdog - WARNING - Internet connection established
+2018-07-18 14:51:56,709 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-18 14:51:56,709 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-18 14:56:10,802 - cryptowatchdog - INFO - Watchdog started
+2018-07-18 14:56:10,808 - cryptowatchdog - INFO - Having internet - True
+2018-07-18 14:56:10,841 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 09:30:47,941 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 09:30:47,941 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 09:32:46,111 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 09:32:46,112 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 09:36:36,654 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 09:36:36,656 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 09:36:36,696 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 10:13:19,003 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 10:13:19,006 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 10:13:19,039 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 10:14:39,282 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 10:14:39,283 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 10:31:31,022 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 10:31:31,023 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 10:44:38,323 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 10:44:38,325 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 10:44:38,365 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 10:45:58,632 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 10:45:58,632 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 10:47:47,701 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 10:47:47,702 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:18:45,518 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 15:18:45,518 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:20:38,370 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 15:20:38,370 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:25:29,730 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 15:25:29,735 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 15:25:29,772 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 15:36:51,811 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 15:36:51,811 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:38:41,380 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 15:38:41,380 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:40:30,981 - cryptowatchdog - ERROR - Detected decrease hashrate: 1000
+2018-07-19 15:40:30,982 - cryptowatchdog - ERROR - Fault GPU's:  1, 2, 3,
+2018-07-19 15:42:20,265 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 15:42:20,266 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:44:09,316 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 15:44:09,317 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:46:00,649 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 15:46:00,650 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:47:49,260 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 15:47:49,261 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 15:52:06,264 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 15:52:06,266 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 15:52:06,307 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 16:06:48,985 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 16:06:48,985 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 16:09:58,279 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 16:09:58,281 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 16:09:58,322 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 16:38:03,456 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 16:38:03,456 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 16:41:19,099 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 16:41:19,102 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 16:41:19,143 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 16:44:55,185 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 16:44:55,190 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 16:44:55,229 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 16:57:01,329 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 16:57:01,335 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 16:57:01,368 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 21:59:14,697 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 21:59:14,698 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:01:04,750 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:01:04,750 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:02:55,112 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:02:55,112 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:04:54,684 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:04:54,684 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:06:44,795 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:06:44,795 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:08:37,683 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:08:37,684 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:10:27,648 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:10:27,649 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:12:17,798 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:12:17,799 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:14:06,648 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:14:06,648 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:15:55,564 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-19 22:15:55,565 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-19 22:19:46,595 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 22:19:46,600 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 22:19:46,636 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-19 22:41:27,386 - cryptowatchdog - INFO - Watchdog started
+2018-07-19 22:41:27,392 - cryptowatchdog - INFO - Having internet - True
+2018-07-19 22:41:27,426 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-20 07:54:24,295 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 07:54:24,295 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 07:54:40,225 - cryptowatchdog - ERROR - Lost internet connection
+2018-07-20 07:56:20,493 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 07:56:20,494 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 07:58:16,386 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 07:58:16,386 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:00:14,518 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:00:14,518 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:02:10,731 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:02:10,731 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:04:08,560 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:04:08,560 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:06:05,055 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:06:05,055 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:08:02,593 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:08:02,593 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:09:59,401 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:09:59,401 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:11:56,640 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:11:56,641 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:13:53,673 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:13:53,674 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:15:50,689 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:15:50,689 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:17:47,707 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:17:47,707 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:19:44,729 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:19:44,729 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:21:41,750 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:21:41,750 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:23:38,766 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:23:38,766 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:25:35,772 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:25:35,772 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:27:30,353 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:27:30,354 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:29:26,802 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:29:26,802 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:31:23,808 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:31:23,808 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:31:33,380 - cryptowatchdog - WARNING - Internet connection established
+2018-07-20 08:33:13,635 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:33:13,636 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:35:02,543 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:35:02,544 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:36:54,487 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:36:54,487 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:38:43,870 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:38:43,871 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:40:34,592 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:40:34,593 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:42:26,351 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:42:26,351 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:44:17,322 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 08:44:17,322 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 08:47:34,520 - cryptowatchdog - INFO - Watchdog started
+2018-07-20 08:47:34,526 - cryptowatchdog - INFO - Having internet - True
+2018-07-20 08:47:34,558 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-20 10:01:03,476 - cryptowatchdog - INFO - Watchdog started
+2018-07-20 10:01:03,477 - cryptowatchdog - INFO - Having internet - True
+2018-07-20 10:01:03,507 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-20 19:15:40,610 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 19:15:40,611 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 19:17:33,683 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 19:17:33,684 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 19:19:22,744 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 19:19:22,745 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 19:21:11,720 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 19:21:11,721 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 19:26:09,906 - cryptowatchdog - INFO - Watchdog started
+2018-07-20 19:26:09,911 - cryptowatchdog - INFO - Having internet - True
+2018-07-20 19:26:09,944 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-20 19:59:15,692 - cryptowatchdog - ERROR - Detected decrease hashrate: 0000
+2018-07-20 19:59:15,692 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3,
+2018-07-20 20:02:54,544 - cryptowatchdog - INFO - Watchdog started
+2018-07-20 20:02:54,550 - cryptowatchdog - INFO - Having internet - True
+2018-07-20 20:02:54,590 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-22 18:10:49,215 - cryptowatchdog - INFO - Watchdog started
+2018-07-22 18:10:49,222 - cryptowatchdog - INFO - Having internet - True
+2018-07-22 18:10:49,262 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-27 09:20:14,897 - cryptowatchdog - INFO - Watchdog started
+2018-07-27 09:20:14,900 - cryptowatchdog - INFO - Having internet - True
+2018-07-27 09:20:14,941 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-28 19:03:46,131 - cryptowatchdog - INFO - Watchdog started
+2018-07-28 19:03:46,137 - cryptowatchdog - INFO - Having internet - True
+2018-07-28 19:03:46,173 - cryptowatchdog - INFO - GPU's count - 4
+2018-07-28 21:20:21,248 - cryptowatchdog - INFO - Watchdog started
+2018-07-28 21:20:21,250 - cryptowatchdog - INFO - Having internet - True
+2018-07-28 21:20:21,301 - cryptowatchdog - INFO - GPU's count - 5
+2018-07-29 04:01:26,190 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2018-07-29 04:01:26,190 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2018-07-29 04:03:16,337 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2018-07-29 04:03:16,337 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2018-07-29 04:05:05,364 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2018-07-29 04:05:05,364 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2018-07-29 04:06:54,670 - cryptowatchdog - ERROR - Detected decrease hashrate: 00000
+2018-07-29 04:06:54,670 - cryptowatchdog - ERROR - Fault GPU's:  0, 1, 2, 3, 4,
+2018-07-29 04:11:01,422 - cryptowatchdog - INFO - Watchdog started
+2018-07-29 04:11:01,428 - cryptowatchdog - INFO - Having internet - True
+2018-07-29 04:11:01,484 - cryptowatchdog - INFO - GPU's count - 5
+2018-07-29 10:14:58,435 - cryptowatchdog - INFO - Watchdog started
+2018-07-29 10:14:58,437 - cryptowatchdog - INFO - Having internet - True
+2018-07-29 10:14:58,489 - cryptowatchdog - INFO - GPU's count - 5
+2018-07-29 10:49:53,836 - cryptowatchdog - INFO - Watchdog started
+2018-07-29 10:49:53,838 - cryptowatchdog - INFO - Having internet - True
+2018-07-29 10:49:53,889 - cryptowatchdog - INFO - GPU's count - 5
+2018-07-29 15:49:39,852 - cryptowatchdog - INFO - Watchdog started
+2018-07-29 15:49:39,856 - cryptowatchdog - INFO - Having internet - True
+2018-07-29 15:49:39,912 - cryptowatchdog - INFO - GPU's count - 5
